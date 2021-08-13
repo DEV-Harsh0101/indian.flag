@@ -1,0 +1,25 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+.orangee, .whitee, .greenn{
+    height: 100%;
+}
+.orangee{
+    background-color: #e67e22;
+    height: 33.35vh;
+    width: 100%;
+}
+.greenn{
+    background-color: green;
+    height: 33.35vh;
+    width: 100%;
+}
+.whitee{
+    background-color: #fff;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 33.39vh;
+    width: 100%;
+}
